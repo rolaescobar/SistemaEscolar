@@ -9,6 +9,7 @@
 
         //Lista de cursos
         private List<Curso> cursos = new List<Curso>();
+        //prueba
 
         //Constructor
         public Estudiante(string nombre, int id) 
